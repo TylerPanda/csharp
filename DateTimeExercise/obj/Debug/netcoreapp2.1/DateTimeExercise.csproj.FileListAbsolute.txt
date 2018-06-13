@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/DateTimeExercise/bin/Debug/netcoreapp2.1/DateTimeExercise.deps.json
+/home/panda/Documents/csharp/DateTimeExercise/bin/Debug/netcoreapp2.1/DateTimeExercise.runtimeconfig.json
+/home/panda/Documents/csharp/DateTimeExercise/bin/Debug/netcoreapp2.1/DateTimeExercise.runtimeconfig.dev.json
+/home/panda/Documents/csharp/DateTimeExercise/bin/Debug/netcoreapp2.1/DateTimeExercise.dll
+/home/panda/Documents/csharp/DateTimeExercise/bin/Debug/netcoreapp2.1/DateTimeExercise.pdb
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.AssemblyInfo.cs
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.dll
+/home/panda/Documents/csharp/DateTimeExercise/obj/Debug/netcoreapp2.1/DateTimeExercise.pdb
