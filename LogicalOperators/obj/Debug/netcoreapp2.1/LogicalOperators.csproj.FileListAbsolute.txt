@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/LogicalOperators/bin/Debug/netcoreapp2.1/LogicalOperators.deps.json
+/home/panda/Documents/csharp/LogicalOperators/bin/Debug/netcoreapp2.1/LogicalOperators.runtimeconfig.json
+/home/panda/Documents/csharp/LogicalOperators/bin/Debug/netcoreapp2.1/LogicalOperators.runtimeconfig.dev.json
+/home/panda/Documents/csharp/LogicalOperators/bin/Debug/netcoreapp2.1/LogicalOperators.dll
+/home/panda/Documents/csharp/LogicalOperators/bin/Debug/netcoreapp2.1/LogicalOperators.pdb
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.AssemblyInfo.cs
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.dll
+/home/panda/Documents/csharp/LogicalOperators/obj/Debug/netcoreapp2.1/LogicalOperators.pdb
