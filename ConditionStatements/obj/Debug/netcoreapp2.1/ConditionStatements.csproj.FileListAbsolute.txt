@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/ConditionStatements/bin/Debug/netcoreapp2.1/ConditionStatements.deps.json
+/home/panda/Documents/csharp/ConditionStatements/bin/Debug/netcoreapp2.1/ConditionStatements.runtimeconfig.json
+/home/panda/Documents/csharp/ConditionStatements/bin/Debug/netcoreapp2.1/ConditionStatements.runtimeconfig.dev.json
+/home/panda/Documents/csharp/ConditionStatements/bin/Debug/netcoreapp2.1/ConditionStatements.dll
+/home/panda/Documents/csharp/ConditionStatements/bin/Debug/netcoreapp2.1/ConditionStatements.pdb
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.AssemblyInfo.cs
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.dll
+/home/panda/Documents/csharp/ConditionStatements/obj/Debug/netcoreapp2.1/ConditionStatements.pdb
