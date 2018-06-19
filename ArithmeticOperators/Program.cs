@@ -42,6 +42,29 @@ namespace ArithmeticOperators
             x = 2 + 3 * 2 - 4 + 2;
             Console.WriteLine(x);
 
+            int a = 0;
+            int b = 0;
+
+            a = 5;
+            b = 7;
+
+            if (a == b)
+            {
+                Console.WriteLine("a is equal to b");
+            }
+            else if (a != b)
+            {
+                //nested if
+                if ( a > b)
+                {
+                    Console.WriteLine("a is greater than b");
+                }
+                else if (a < b)
+                {
+                    Console.WriteLine("a is less than b");
+                }
+            }
+
         }
     }
 }
