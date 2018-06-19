@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.AssemblyInfo.cs
+/home/panda/Documents/csharp/EvenOrOdd/bin/Debug/netcoreapp2.1/EvenOrOdd.deps.json
+/home/panda/Documents/csharp/EvenOrOdd/bin/Debug/netcoreapp2.1/EvenOrOdd.runtimeconfig.json
+/home/panda/Documents/csharp/EvenOrOdd/bin/Debug/netcoreapp2.1/EvenOrOdd.runtimeconfig.dev.json
+/home/panda/Documents/csharp/EvenOrOdd/bin/Debug/netcoreapp2.1/EvenOrOdd.dll
+/home/panda/Documents/csharp/EvenOrOdd/bin/Debug/netcoreapp2.1/EvenOrOdd.pdb
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.dll
+/home/panda/Documents/csharp/EvenOrOdd/obj/Debug/netcoreapp2.1/EvenOrOdd.pdb
