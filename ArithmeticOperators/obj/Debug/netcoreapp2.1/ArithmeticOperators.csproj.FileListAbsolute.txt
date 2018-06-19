@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/ArithmeticOperators/bin/Debug/netcoreapp2.1/ArithmeticOperators.deps.json
+/home/panda/Documents/csharp/ArithmeticOperators/bin/Debug/netcoreapp2.1/ArithmeticOperators.runtimeconfig.json
+/home/panda/Documents/csharp/ArithmeticOperators/bin/Debug/netcoreapp2.1/ArithmeticOperators.runtimeconfig.dev.json
+/home/panda/Documents/csharp/ArithmeticOperators/bin/Debug/netcoreapp2.1/ArithmeticOperators.dll
+/home/panda/Documents/csharp/ArithmeticOperators/bin/Debug/netcoreapp2.1/ArithmeticOperators.pdb
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.AssemblyInfo.cs
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.dll
+/home/panda/Documents/csharp/ArithmeticOperators/obj/Debug/netcoreapp2.1/ArithmeticOperators.pdb
