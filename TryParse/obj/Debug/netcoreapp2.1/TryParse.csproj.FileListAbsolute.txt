@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.AssemblyInfo.cs
+/home/panda/Documents/csharp/TryParse/bin/Debug/netcoreapp2.1/TryParse.deps.json
+/home/panda/Documents/csharp/TryParse/bin/Debug/netcoreapp2.1/TryParse.runtimeconfig.json
+/home/panda/Documents/csharp/TryParse/bin/Debug/netcoreapp2.1/TryParse.runtimeconfig.dev.json
+/home/panda/Documents/csharp/TryParse/bin/Debug/netcoreapp2.1/TryParse.dll
+/home/panda/Documents/csharp/TryParse/bin/Debug/netcoreapp2.1/TryParse.pdb
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.dll
+/home/panda/Documents/csharp/TryParse/obj/Debug/netcoreapp2.1/TryParse.pdb
