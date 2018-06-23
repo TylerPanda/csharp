@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/panda/Documents/csharp/LoopPart2_While_and_DoWhile/LoopPart2_While_and_DoWhile.csproj",
-      "projectName": "LoopPart2_While_and_DoWhile",
-      "projectPath": "/home/panda/Documents/csharp/LoopPart2_While_and_DoWhile/LoopPart2_While_and_DoWhile.csproj",
+      "projectUniqueName": "/home/panda/Documents/csharp/LoopPart2/LoopPart2.csproj",
+      "projectName": "LoopPart2",
+      "projectPath": "/home/panda/Documents/csharp/LoopPart2/LoopPart2.csproj",
       "packagesPath": "/home/panda/.nuget/packages/",
-      "outputPath": "/home/panda/Documents/csharp/LoopPart2_While_and_DoWhile/obj/",
+      "outputPath": "/home/panda/Documents/csharp/LoopPart2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

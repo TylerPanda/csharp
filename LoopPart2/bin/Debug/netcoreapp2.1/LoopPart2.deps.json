@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "LoopPart2_While_and_DoWhile/1.0.0": {
+      "LoopPart2/1.0.0": {
         "runtime": {
-          "LoopPart2_While_and_DoWhile.dll": {}
+          "LoopPart2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "LoopPart2_While_and_DoWhile/1.0.0": {
+    "LoopPart2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

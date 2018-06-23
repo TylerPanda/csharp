@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LoopPart2_While_and_DoWhile")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LoopPart2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LoopPart2_While_and_DoWhile")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LoopPart2_While_and_DoWhile")]
+[assembly: System.Reflection.AssemblyProductAttribute("LoopPart2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LoopPart2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
