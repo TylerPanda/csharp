@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.AssemblyInfo.cs
+/home/panda/Documents/csharp/RandomNumbers/bin/Debug/netcoreapp2.1/RandomNumbers.deps.json
+/home/panda/Documents/csharp/RandomNumbers/bin/Debug/netcoreapp2.1/RandomNumbers.runtimeconfig.json
+/home/panda/Documents/csharp/RandomNumbers/bin/Debug/netcoreapp2.1/RandomNumbers.runtimeconfig.dev.json
+/home/panda/Documents/csharp/RandomNumbers/bin/Debug/netcoreapp2.1/RandomNumbers.dll
+/home/panda/Documents/csharp/RandomNumbers/bin/Debug/netcoreapp2.1/RandomNumbers.pdb
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.dll
+/home/panda/Documents/csharp/RandomNumbers/obj/Debug/netcoreapp2.1/RandomNumbers.pdb
