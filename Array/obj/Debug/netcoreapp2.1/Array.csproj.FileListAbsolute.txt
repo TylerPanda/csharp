@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.AssemblyInfo.cs
+/home/panda/Documents/csharp/Array/bin/Debug/netcoreapp2.1/Array.deps.json
+/home/panda/Documents/csharp/Array/bin/Debug/netcoreapp2.1/Array.runtimeconfig.json
+/home/panda/Documents/csharp/Array/bin/Debug/netcoreapp2.1/Array.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Array/bin/Debug/netcoreapp2.1/Array.dll
+/home/panda/Documents/csharp/Array/bin/Debug/netcoreapp2.1/Array.pdb
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.dll
+/home/panda/Documents/csharp/Array/obj/Debug/netcoreapp2.1/Array.pdb
