@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.AssemblyInfo.cs
+/home/panda/Documents/csharp/Constants/bin/Debug/netcoreapp2.1/Constants.deps.json
+/home/panda/Documents/csharp/Constants/bin/Debug/netcoreapp2.1/Constants.runtimeconfig.json
+/home/panda/Documents/csharp/Constants/bin/Debug/netcoreapp2.1/Constants.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Constants/bin/Debug/netcoreapp2.1/Constants.dll
+/home/panda/Documents/csharp/Constants/bin/Debug/netcoreapp2.1/Constants.pdb
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.dll
+/home/panda/Documents/csharp/Constants/obj/Debug/netcoreapp2.1/Constants.pdb
