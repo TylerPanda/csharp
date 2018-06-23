@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/EscapeSequences/bin/Debug/netcoreapp2.1/EscapeSequences.deps.json
+/home/panda/Documents/csharp/EscapeSequences/bin/Debug/netcoreapp2.1/EscapeSequences.runtimeconfig.json
+/home/panda/Documents/csharp/EscapeSequences/bin/Debug/netcoreapp2.1/EscapeSequences.runtimeconfig.dev.json
+/home/panda/Documents/csharp/EscapeSequences/bin/Debug/netcoreapp2.1/EscapeSequences.dll
+/home/panda/Documents/csharp/EscapeSequences/bin/Debug/netcoreapp2.1/EscapeSequences.pdb
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.AssemblyInfo.cs
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.dll
+/home/panda/Documents/csharp/EscapeSequences/obj/Debug/netcoreapp2.1/EscapeSequences.pdb

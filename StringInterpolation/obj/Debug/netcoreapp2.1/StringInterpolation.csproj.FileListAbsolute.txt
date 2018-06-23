@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/StringInterpolation/bin/Debug/netcoreapp2.1/StringInterpolation.deps.json
+/home/panda/Documents/csharp/StringInterpolation/bin/Debug/netcoreapp2.1/StringInterpolation.runtimeconfig.json
+/home/panda/Documents/csharp/StringInterpolation/bin/Debug/netcoreapp2.1/StringInterpolation.runtimeconfig.dev.json
+/home/panda/Documents/csharp/StringInterpolation/bin/Debug/netcoreapp2.1/StringInterpolation.dll
+/home/panda/Documents/csharp/StringInterpolation/bin/Debug/netcoreapp2.1/StringInterpolation.pdb
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.AssemblyInfo.cs
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.dll
+/home/panda/Documents/csharp/StringInterpolation/obj/Debug/netcoreapp2.1/StringInterpolation.pdb

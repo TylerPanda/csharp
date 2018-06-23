@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.AssemblyInfo.cs
+/home/panda/Documents/csharp/MathPart1/bin/Debug/netcoreapp2.1/MathPart1.deps.json
+/home/panda/Documents/csharp/MathPart1/bin/Debug/netcoreapp2.1/MathPart1.runtimeconfig.json
+/home/panda/Documents/csharp/MathPart1/bin/Debug/netcoreapp2.1/MathPart1.runtimeconfig.dev.json
+/home/panda/Documents/csharp/MathPart1/bin/Debug/netcoreapp2.1/MathPart1.dll
+/home/panda/Documents/csharp/MathPart1/bin/Debug/netcoreapp2.1/MathPart1.pdb
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.dll
+/home/panda/Documents/csharp/MathPart1/obj/Debug/netcoreapp2.1/MathPart1.pdb

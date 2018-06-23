@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/LoopPart2/bin/Debug/netcoreapp2.1/LoopPart2.deps.json
+/home/panda/Documents/csharp/LoopPart2/bin/Debug/netcoreapp2.1/LoopPart2.runtimeconfig.json
+/home/panda/Documents/csharp/LoopPart2/bin/Debug/netcoreapp2.1/LoopPart2.runtimeconfig.dev.json
+/home/panda/Documents/csharp/LoopPart2/bin/Debug/netcoreapp2.1/LoopPart2.dll
+/home/panda/Documents/csharp/LoopPart2/bin/Debug/netcoreapp2.1/LoopPart2.pdb
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.AssemblyInfo.cs
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.dll
+/home/panda/Documents/csharp/LoopPart2/obj/Debug/netcoreapp2.1/LoopPart2.pdb

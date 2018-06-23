@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/LoopsExercise/bin/Debug/netcoreapp2.1/LoopsExercise.deps.json
+/home/panda/Documents/csharp/LoopsExercise/bin/Debug/netcoreapp2.1/LoopsExercise.runtimeconfig.json
+/home/panda/Documents/csharp/LoopsExercise/bin/Debug/netcoreapp2.1/LoopsExercise.runtimeconfig.dev.json
+/home/panda/Documents/csharp/LoopsExercise/bin/Debug/netcoreapp2.1/LoopsExercise.dll
+/home/panda/Documents/csharp/LoopsExercise/bin/Debug/netcoreapp2.1/LoopsExercise.pdb
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.AssemblyInfo.cs
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.dll
+/home/panda/Documents/csharp/LoopsExercise/obj/Debug/netcoreapp2.1/LoopsExercise.pdb
