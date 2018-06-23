@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/StringManipulationPart2/bin/Debug/netcoreapp2.1/StringManipulationPart2.deps.json
+/home/panda/Documents/csharp/StringManipulationPart2/bin/Debug/netcoreapp2.1/StringManipulationPart2.runtimeconfig.json
+/home/panda/Documents/csharp/StringManipulationPart2/bin/Debug/netcoreapp2.1/StringManipulationPart2.runtimeconfig.dev.json
+/home/panda/Documents/csharp/StringManipulationPart2/bin/Debug/netcoreapp2.1/StringManipulationPart2.dll
+/home/panda/Documents/csharp/StringManipulationPart2/bin/Debug/netcoreapp2.1/StringManipulationPart2.pdb
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.AssemblyInfo.cs
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.dll
+/home/panda/Documents/csharp/StringManipulationPart2/obj/Debug/netcoreapp2.1/StringManipulationPart2.pdb
