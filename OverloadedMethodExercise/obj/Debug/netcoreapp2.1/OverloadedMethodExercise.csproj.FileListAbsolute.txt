@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.AssemblyInfo.cs
+/home/panda/Documents/csharp/OverloadedMethodExercise/bin/Debug/netcoreapp2.1/OverloadedMethodExercise.deps.json
+/home/panda/Documents/csharp/OverloadedMethodExercise/bin/Debug/netcoreapp2.1/OverloadedMethodExercise.runtimeconfig.json
+/home/panda/Documents/csharp/OverloadedMethodExercise/bin/Debug/netcoreapp2.1/OverloadedMethodExercise.runtimeconfig.dev.json
+/home/panda/Documents/csharp/OverloadedMethodExercise/bin/Debug/netcoreapp2.1/OverloadedMethodExercise.dll
+/home/panda/Documents/csharp/OverloadedMethodExercise/bin/Debug/netcoreapp2.1/OverloadedMethodExercise.pdb
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.dll
+/home/panda/Documents/csharp/OverloadedMethodExercise/obj/Debug/netcoreapp2.1/OverloadedMethodExercise.pdb
