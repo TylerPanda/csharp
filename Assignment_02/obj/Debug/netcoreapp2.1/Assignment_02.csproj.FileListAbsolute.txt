@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Assignment_02/bin/Debug/netcoreapp2.1/Assignment_02.deps.json
+/home/panda/Documents/csharp/Assignment_02/bin/Debug/netcoreapp2.1/Assignment_02.runtimeconfig.json
+/home/panda/Documents/csharp/Assignment_02/bin/Debug/netcoreapp2.1/Assignment_02.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Assignment_02/bin/Debug/netcoreapp2.1/Assignment_02.dll
+/home/panda/Documents/csharp/Assignment_02/bin/Debug/netcoreapp2.1/Assignment_02.pdb
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.AssemblyInfo.cs
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.dll
+/home/panda/Documents/csharp/Assignment_02/obj/Debug/netcoreapp2.1/Assignment_02.pdb

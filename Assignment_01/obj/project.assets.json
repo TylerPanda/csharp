@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/panda/Documents/csharp/Assignment/Assignment.csproj",
+      "projectUniqueName": "/home/panda/Documents/csharp/Assignment_01/Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "/home/panda/Documents/csharp/Assignment/Assignment.csproj",
+      "projectPath": "/home/panda/Documents/csharp/Assignment_01/Assignment.csproj",
       "packagesPath": "/home/panda/.nuget/packages/",
-      "outputPath": "/home/panda/Documents/csharp/Assignment/obj/",
+      "outputPath": "/home/panda/Documents/csharp/Assignment_01/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
