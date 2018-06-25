@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.AssemblyInfo.cs
+/home/panda/Documents/csharp/StaticMetthods/bin/Debug/netcoreapp2.1/StaticMetthods.deps.json
+/home/panda/Documents/csharp/StaticMetthods/bin/Debug/netcoreapp2.1/StaticMetthods.runtimeconfig.json
+/home/panda/Documents/csharp/StaticMetthods/bin/Debug/netcoreapp2.1/StaticMetthods.runtimeconfig.dev.json
+/home/panda/Documents/csharp/StaticMetthods/bin/Debug/netcoreapp2.1/StaticMetthods.dll
+/home/panda/Documents/csharp/StaticMetthods/bin/Debug/netcoreapp2.1/StaticMetthods.pdb
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.dll
+/home/panda/Documents/csharp/StaticMetthods/obj/Debug/netcoreapp2.1/StaticMetthods.pdb
