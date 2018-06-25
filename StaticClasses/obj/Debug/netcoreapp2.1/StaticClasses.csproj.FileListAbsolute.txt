@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.AssemblyInfo.cs
+/home/panda/Documents/csharp/StaticClasses/bin/Debug/netcoreapp2.1/StaticClasses.deps.json
+/home/panda/Documents/csharp/StaticClasses/bin/Debug/netcoreapp2.1/StaticClasses.runtimeconfig.json
+/home/panda/Documents/csharp/StaticClasses/bin/Debug/netcoreapp2.1/StaticClasses.runtimeconfig.dev.json
+/home/panda/Documents/csharp/StaticClasses/bin/Debug/netcoreapp2.1/StaticClasses.dll
+/home/panda/Documents/csharp/StaticClasses/bin/Debug/netcoreapp2.1/StaticClasses.pdb
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.dll
+/home/panda/Documents/csharp/StaticClasses/obj/Debug/netcoreapp2.1/StaticClasses.pdb
