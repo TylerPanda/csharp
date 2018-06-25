@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.AssemblyInfo.cs
+/home/panda/Documents/csharp/NameSpaces/bin/Debug/netcoreapp2.1/NameSpaces.deps.json
+/home/panda/Documents/csharp/NameSpaces/bin/Debug/netcoreapp2.1/NameSpaces.runtimeconfig.json
+/home/panda/Documents/csharp/NameSpaces/bin/Debug/netcoreapp2.1/NameSpaces.runtimeconfig.dev.json
+/home/panda/Documents/csharp/NameSpaces/bin/Debug/netcoreapp2.1/NameSpaces.dll
+/home/panda/Documents/csharp/NameSpaces/bin/Debug/netcoreapp2.1/NameSpaces.pdb
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.dll
+/home/panda/Documents/csharp/NameSpaces/obj/Debug/netcoreapp2.1/NameSpaces.pdb
