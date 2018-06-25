@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/NestClasses/bin/Debug/netcoreapp2.1/NestClasses.deps.json
+/home/panda/Documents/csharp/NestClasses/bin/Debug/netcoreapp2.1/NestClasses.runtimeconfig.json
+/home/panda/Documents/csharp/NestClasses/bin/Debug/netcoreapp2.1/NestClasses.runtimeconfig.dev.json
+/home/panda/Documents/csharp/NestClasses/bin/Debug/netcoreapp2.1/NestClasses.dll
+/home/panda/Documents/csharp/NestClasses/bin/Debug/netcoreapp2.1/NestClasses.pdb
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.AssemblyInfo.cs
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.dll
+/home/panda/Documents/csharp/NestClasses/obj/Debug/netcoreapp2.1/NestClasses.pdb
