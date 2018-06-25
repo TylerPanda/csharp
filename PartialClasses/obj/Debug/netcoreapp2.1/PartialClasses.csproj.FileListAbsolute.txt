@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/PartialClasses/bin/Debug/netcoreapp2.1/PartialClasses.deps.json
+/home/panda/Documents/csharp/PartialClasses/bin/Debug/netcoreapp2.1/PartialClasses.runtimeconfig.json
+/home/panda/Documents/csharp/PartialClasses/bin/Debug/netcoreapp2.1/PartialClasses.runtimeconfig.dev.json
+/home/panda/Documents/csharp/PartialClasses/bin/Debug/netcoreapp2.1/PartialClasses.dll
+/home/panda/Documents/csharp/PartialClasses/bin/Debug/netcoreapp2.1/PartialClasses.pdb
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.AssemblyInfo.cs
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.dll
+/home/panda/Documents/csharp/PartialClasses/obj/Debug/netcoreapp2.1/PartialClasses.pdb
