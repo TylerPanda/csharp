@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Struct/bin/Debug/netcoreapp2.1/Struct.deps.json
+/home/panda/Documents/csharp/Struct/bin/Debug/netcoreapp2.1/Struct.runtimeconfig.json
+/home/panda/Documents/csharp/Struct/bin/Debug/netcoreapp2.1/Struct.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Struct/bin/Debug/netcoreapp2.1/Struct.dll
+/home/panda/Documents/csharp/Struct/bin/Debug/netcoreapp2.1/Struct.pdb
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.AssemblyInfo.cs
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.dll
+/home/panda/Documents/csharp/Struct/obj/Debug/netcoreapp2.1/Struct.pdb
