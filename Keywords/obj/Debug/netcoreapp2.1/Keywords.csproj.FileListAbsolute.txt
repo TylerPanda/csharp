@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Keywords/bin/Debug/netcoreapp2.1/Keywords.deps.json
+/home/panda/Documents/csharp/Keywords/bin/Debug/netcoreapp2.1/Keywords.runtimeconfig.json
+/home/panda/Documents/csharp/Keywords/bin/Debug/netcoreapp2.1/Keywords.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Keywords/bin/Debug/netcoreapp2.1/Keywords.dll
+/home/panda/Documents/csharp/Keywords/bin/Debug/netcoreapp2.1/Keywords.pdb
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.AssemblyInfo.cs
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.dll
+/home/panda/Documents/csharp/Keywords/obj/Debug/netcoreapp2.1/Keywords.pdb
