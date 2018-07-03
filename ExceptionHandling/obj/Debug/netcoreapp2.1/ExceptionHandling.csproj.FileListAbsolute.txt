@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.deps.json
+/home/panda/Documents/csharp/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.runtimeconfig.json
+/home/panda/Documents/csharp/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.runtimeconfig.dev.json
+/home/panda/Documents/csharp/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.dll
+/home/panda/Documents/csharp/ExceptionHandling/bin/Debug/netcoreapp2.1/ExceptionHandling.pdb
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.AssemblyInfo.cs
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.dll
+/home/panda/Documents/csharp/ExceptionHandling/obj/Debug/netcoreapp2.1/ExceptionHandling.pdb
