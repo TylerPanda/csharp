@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Enumerations/bin/Debug/netcoreapp2.1/Enumerations.deps.json
+/home/panda/Documents/csharp/Enumerations/bin/Debug/netcoreapp2.1/Enumerations.runtimeconfig.json
+/home/panda/Documents/csharp/Enumerations/bin/Debug/netcoreapp2.1/Enumerations.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Enumerations/bin/Debug/netcoreapp2.1/Enumerations.dll
+/home/panda/Documents/csharp/Enumerations/bin/Debug/netcoreapp2.1/Enumerations.pdb
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.AssemblyInfo.cs
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.dll
+/home/panda/Documents/csharp/Enumerations/obj/Debug/netcoreapp2.1/Enumerations.pdb
