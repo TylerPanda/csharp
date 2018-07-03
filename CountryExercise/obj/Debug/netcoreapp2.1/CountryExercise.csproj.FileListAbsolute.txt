@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.AssemblyInfo.cs
+/home/panda/Documents/csharp/CountryExercise/bin/Debug/netcoreapp2.1/CountryExercise.deps.json
+/home/panda/Documents/csharp/CountryExercise/bin/Debug/netcoreapp2.1/CountryExercise.runtimeconfig.json
+/home/panda/Documents/csharp/CountryExercise/bin/Debug/netcoreapp2.1/CountryExercise.runtimeconfig.dev.json
+/home/panda/Documents/csharp/CountryExercise/bin/Debug/netcoreapp2.1/CountryExercise.dll
+/home/panda/Documents/csharp/CountryExercise/bin/Debug/netcoreapp2.1/CountryExercise.pdb
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.dll
+/home/panda/Documents/csharp/CountryExercise/obj/Debug/netcoreapp2.1/CountryExercise.pdb
