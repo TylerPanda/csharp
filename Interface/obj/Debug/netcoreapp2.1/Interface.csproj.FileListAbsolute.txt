@@ -1,0 +1,11 @@
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.csprojAssemblyReference.cache
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.csproj.CoreCompileInputs.cache
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.AssemblyInfoInputs.cache
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.AssemblyInfo.cs
+/home/panda/Documents/csharp/Interface/bin/Debug/netcoreapp2.1/Interface.deps.json
+/home/panda/Documents/csharp/Interface/bin/Debug/netcoreapp2.1/Interface.runtimeconfig.json
+/home/panda/Documents/csharp/Interface/bin/Debug/netcoreapp2.1/Interface.runtimeconfig.dev.json
+/home/panda/Documents/csharp/Interface/bin/Debug/netcoreapp2.1/Interface.dll
+/home/panda/Documents/csharp/Interface/bin/Debug/netcoreapp2.1/Interface.pdb
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.dll
+/home/panda/Documents/csharp/Interface/obj/Debug/netcoreapp2.1/Interface.pdb
